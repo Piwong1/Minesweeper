@@ -41,7 +41,7 @@ public void setMines()
       if (!mines.contains(buttons[randrow][randcol]))
     {
       mines.add(buttons[randrow][randcol]);
-      System.out.println(randrow + "," + randcol);
+  
     }
     
   }
